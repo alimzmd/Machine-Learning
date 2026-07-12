@@ -15,8 +15,8 @@ Provide a 2-3 sentence overview of what this machine learning project does. Ment
 - **Description:** Briefly describe the dataset size, target variables, and any major features.
 - **Setup:** Explain how to download the data and where to place it in the project structure (e.g., `/data/raw/`).
 
-## 📁 Project Structure
-```text
+**## 📁 Project Structure
+**```text
 ├── data/               # Raw and processed datasets
 ├── notebooks/          # Jupyter notebooks for EDA and prototyping
 ├── src/                # Source code for production scripts
