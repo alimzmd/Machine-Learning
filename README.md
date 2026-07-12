@@ -1,6 +1,6 @@
 # Machine-Learning
 # Project Name: [Briefly Describe Your Model or Project]
-
+It deals with different datasets and techniques to filter the data, exploratory data analysis, build a machine learning model.
 
 Provide a 2-3 sentence overview of what this machine learning project does. Mention the core problem it solves, the type of model used (e.g., Random Forest, CNN, Transformer), and the primary dataset.
 
@@ -8,7 +8,7 @@ Provide a 2-3 sentence overview of what this machine learning project does. Ment
 - **Feature 1:** End-to-end data preprocessing pipeline.
 - **Feature 2:** [Name of Model] architecture implemented in [PyTorch/TensorFlow/Scikit-Learn].
 - **Feature 3:** Automated evaluation tracking (including precision, recall, and F1-score).
-- **Feature 4:** Pre-trained weights available for immediate inference.
+**Feature 4:** Pre-trained weights available for immediate inference.
 
 ## 📊 Dataset
 - **Source:** [Link to dataset source, e.g., Kaggle, UCI]
