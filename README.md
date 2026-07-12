@@ -13,7 +13,7 @@ Provide a 2-3 sentence overview of what this machine learning project does. Ment
 ## 📊 Dataset
 - **Source:** Link to dataset source,
 - 1.First-Machine-Learning-model.ipynb
-[/kaggle/input/home-data-for-ml-course, /kaggle/input/melbourne-housing-snapshot]
+ [ https://www.kaggle.com/code/dansbecker/basic-data-exploration/data]
  e.g., Kaggle, UCI]
 - **Description:** Briefly describe the dataset size, target variables, and any major features.
 - **Setup:** Explain how to download the data and where to place it in the project structure (e.g., `/data/raw/`).
