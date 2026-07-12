@@ -11,8 +11,8 @@ Provide a 2-3 sentence overview of what this machine learning project does. Ment
 **Feature 4:** Pre-trained weights available for immediate inference.
 
 ## 📊 Dataset
-- **Source:** Link to dataset source,
-- 1.First-Machine-Learning-model.ipynb
+- **Link to dataset source,
+- 1.First-Machine-Learning-model:
  [ https://www.kaggle.com/code/dansbecker/basic-data-exploration/data]
  e.g., Kaggle, UCI]
 - **Description:** Briefly describe the dataset size, target variables, and any major features.
